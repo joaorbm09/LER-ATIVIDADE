@@ -117,7 +117,7 @@ O SGT será uma apicação web responsiva com sincronização em nuvens.
 
 ---
 
-## 4. Controle de VErsões 
+## 4. Controle de Versões 
 
 ### 4.1 Histórico de Alterações
 
