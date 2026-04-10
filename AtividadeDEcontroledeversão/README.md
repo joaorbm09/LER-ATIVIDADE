@@ -1,8 +1,8 @@
 # Sistema de Gerenciamento de Reservas de Hotel
 
-## 1. Introdução @
+## 1. Introdução 
 
-### 1.1 Propósito @
+### 1.1 Propósito 
 este documento especifica os requisitos funcioanis de um sistema de reserva de hoteis
 
 ### 1.2 Escopo
@@ -26,7 +26,7 @@ O SGR será uma aplicação web responsiva com sincronização em nuvens.
 - 
 ## 3. Requisitos Específicos
 
-### 3.1 Requisto Funcional @
+### 3.1 Requisto Funcional 
 
 #### RF-010: Os usuários devem ser capazes de selcionar suas reservas de quartos do hotel
 
@@ -56,13 +56,13 @@ O SGR será uma aplicação web responsiva com sincronização em nuvens.
 | VErsão | Data | Autor | Modificação |
 |--------|------|-------|-------------|
 | 1.0    | 2026-01-01 | João Wictor | Versão inicial de documento |
-### 4.1 Histórico de Alterações @
+### 4.1 Histórico de Alterações 
 
 | VErsão | Data | Autor | Modificação |
 |--------|------|-------|-------------|
 | 1.1    | 2026-0-10 | João Wictor | Criação do documento |
 
-## 5. Aprovação @
+## 5. Aprovação 
 | Alteração | Data | Autor | Aprovador |
 | -   | - | - | - | 
 | 1.0  | 2026-01-01 | João Wictor | Stakeholder | 
